@@ -41,3 +41,4 @@ for i in range(len(operations)):
   elif operations[i] == "pop":
     stack.pop()
 stack.status()
+
